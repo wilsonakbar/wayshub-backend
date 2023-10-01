@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "wayshub",
-    "host": "127.0.0.1",
+    "username": "kel3-appserver",
+    "password": "katasand1",
+    "database": "wayshub-db",
+    "host": "103.175.221.143",
     "dialect": "mysql"
   },
   "test": {
